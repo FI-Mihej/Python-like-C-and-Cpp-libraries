@@ -1,7 +1,3 @@
-<!-- <p align="center">
-  <h1>List of python-like C/C++ libraries</h1>
-</p> -->
-
 # List of python-like C/C++ libraries
 
 ## Table of Contents
